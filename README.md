@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<  !--
 **ogc16/ogc16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 -->
+link to social networks https://www.linkedin.com/in/caleb-kibet-834020362/
