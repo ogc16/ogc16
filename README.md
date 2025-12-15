@@ -22,6 +22,7 @@ I’m a multidisciplinary engineer with deep experience in web development, cybe
 
 ![GitRoll Stats](https://github.com/user-attachments/assets/1842adbf-d38b-4b7b-b092-4e0659da96aa)
 
+<a href="https://gitroll.io/profile/ufNJrt6CiqFQtSyH8xL1C2ZX1jAn2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufNJrt6CiqFQtSyH8xL1C2ZX1jAn2?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
 ---
 
 ### 🛠 Technical Stack
