@@ -9,6 +9,12 @@ In a nutshell
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I am a globe throtter
 
+  
+![Screenshot_15-12-2025_10565_gitroll io](https://github.com/user-attachments/assets/e9e43b87-fbbe-4347-82cc-2c30e65456f3)
+
+
+![Screenshot_15-12-2025_11443_gitroll io](https://github.com/user-attachments/assets/1842adbf-d38b-4b7b-b092-4e0659da96aa)
+
 
 # 🧑‍💻 Caleb Ngeno
 Software Developer | Cybersecurity Engineer | Systems & Finance Solutions Architect
@@ -67,6 +73,7 @@ I build systems that are not only functional, but robust, elegant, and resilient
 # 📫 Let’s Connect
 * [LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362/)
 * [portfolio](https://ogc16.github.io/gitprofile/)
-* [whatsapp](wa.me/+254 785 084333)
+* [whatsapp](https:wa.me/254785084333)
 If you’re interested in collaborating, exploring ideas, or building something exceptional, feel free to reach out.
+
 
