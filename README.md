@@ -66,7 +66,7 @@ I build systems that are not only functional, but robust, elegant, and resilient
 
 # 📫 Let’s Connect
 * [LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362/)
-* [GitHub](https://github.com/your-username)
-* [Email](mailto:your-email@example.com)
+* [portfolio](https://ogc16.github.io/gitprofile/)
+* [whatsapp](wa.me/+254 785 084333)
 If you’re interested in collaborating, exploring ideas, or building something exceptional, feel free to reach out.
 
