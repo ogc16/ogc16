@@ -65,10 +65,10 @@ If you’re interested in collaborating, exploring ideas, or building something 
   <a href="https://wa.me/254785084333">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="https://www.reddit.com/user/your-reddit-username">
+  <a href="https://www.reddit.com/user/u/caleb_galaxy">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
-  <a href="https://discordapp.com/users/your-discord-id">
+  <a href="https://discord.gg/ksYwwHE2">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </p>
