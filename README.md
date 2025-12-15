@@ -1,7 +1,7 @@
 ## Hi there 👋
 In a nutshell
 - 🔭 I’m currently working on ...cybersecurity solutions
-- 🌱 I’m currently learning ...cipher
+- 🌱 I’m currently learning ...docker,kubernetes,nginx
 - 👯 I’m looking to collaborate on ...innovative ideas to protect systems
 - 🤔 I’m looking for help with ...articulating ideas
 - 💬 Ask me about ...cars,incident response
@@ -64,5 +64,9 @@ I believe great software is:
 - Designed for the future, not just today
 I build systems that are not only functional, but robust, elegant, and resilient.
 
-#📫 Let’s Connect
+# 📫 Let’s Connect
+* [LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362/)
+* [GitHub](https://github.com/your-username)
+* [Email](mailto:your-email@example.com)
 If you’re interested in collaborating, exploring ideas, or building something exceptional, feel free to reach out.
+
