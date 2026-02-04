@@ -9,10 +9,11 @@ I’m a multidisciplinary engineer with deep experience in web development, cybe
 ### 🔎 In a Nutshell
 
 - 🔭 **Working on:** Cybersecurity solutions and secure backend architectures.
-- 🌱 **Learning:** Advanced Docker, Kubernetes, and Nginx orchestration.
-- 👯 **Collaborating on:** Innovative ideas to protect systems and scale secure infra.
-- 💬 **Ask me about:** Incident response, secure coding, and cars.
+- 🌱 **Learning:** Advanced Docker, Kubernetes, and Nginx orchestration.Also learning UK Taxes.
+- 👯 **Collaborating on:** Innovative ideas to protect systems and scale secure infrastructure.
+- 💬 **Ask me about:** Incident response, secure coding,taxes and cars.
 - ⚡ **Fun fact:** I am a globe trotter.
+- **Passion:** Arsenal FC,Mum Joyce Memorial Hospital.
 
 ---
 
