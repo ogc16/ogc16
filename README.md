@@ -84,7 +84,7 @@ My approach merges professional financial rigour with a "Secure-by-Design" philo
    <a href="https://www.reddit.com/user/caleb_galaxy">
       <img src= "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
    </a>
-  <a href ="https://discordapp.com/users/king16">
+  <a href ="https://discordapp.com/users/techgaetano">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
