@@ -1,7 +1,7 @@
 # Hi there, I'm Caleb Ngeno 👋 
 
 ### **FinTech Architect | Cybersecurity Engineer | ACCA Member**
-*Bridging the gap between fiscal accountability and high-integrity technical innovation.*
+*Bridging the gap between fiscal accountability high-integrity technical innovation and sustainability.*
 
 ---
 
