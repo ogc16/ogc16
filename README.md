@@ -49,17 +49,21 @@ My approach merges professional financial rigour with a "Secure-by-Design" philo
 
 ### 🏆 Featured Impact Projects
 
-#### 📱 Mobile App Ecosystem | React Native & TypeScript
+#### 📱 Mobile App Ecosystem | React Native & TypeScript https://minibook.expo.app
 * **The Project:** Engineered a high-performance mobile solution using **Expo**, prioritising type-safety and real-time state synchronisation.
 * **Impact:** Delivered a seamless cross-platform experience with specialized security layers for mobile data protection.
+  Data can be exported and the app can be integrated to various accounting softwares. Automated reminders and multicurrency accounting.
+* Technology - Async storage, debouncing.
 
-#### 🏛️ Finance & Tax Engine | Python & Django
-* **The Project:** Developed a production-ready **Django** backend specifically designed for complex financial reporting and UK tax logic.
-* **Impact:** Automated intricate calculation workflows, ensuring 100% data integrity and compliance with regulatory standards.
+#### 🏛️ Finance & Tax Engine | frontend- https://simplepayroll.netlify.app/
+* **The Project:** Developed a production-ready **Django** backend specifically designed for complex financial reporting and  tax logic.
+* **Impact:** Automated intricate calculation workflows, ensuring 100% data integrity and compliance with regulatory standards. Automated Payroll processes and generation of payslips.
+*  **Technology:** Vite , Python(Django)
 
-#### 🛡️ Secure Systems Architecture | Python & DevOps
-* **The Project:** Architected a "Secure-by-Design" environment using **Docker** and **Kubernetes** to safeguard sensitive financial APIs.
+#### 🛡️ Bookkeeping web app | DevOps https://booksy-puce.vercel.app/
+* **The Project:** Architected a "Secure-by-Design" environment to safeguard sensitive financial APIs.
 * **Impact:** Successfully implemented hardened IAM protocols and automated threat detection, significantly reducing the attack surface.
+*  **Technology:** Automated workflows,Role Based Access Management, SaaS, intrusion detection
 
 ---
 
