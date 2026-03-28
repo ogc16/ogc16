@@ -49,7 +49,7 @@ My approach merges professional financial rigour with a "Secure-by-Design" philo
 ---
 
 ## 🏆 Featured Projects
-### 📱 Mobile App Ecosystem | [Live Demo](https://minibook.expo.app)
+### 📱 Mobile App Ecosystem | [Demo](https://minibook.expo.app)
 - Built secure, cross‑platform accounting app with reminders & multicurrency support  
 - Tech: React Native, Expo, Async Storage  
 
@@ -57,7 +57,7 @@ My approach merges professional financial rigour with a "Secure-by-Design" philo
 - Automated payroll & tax workflows with Django backend  
 - Tech: Python (Django), Vite  
 
-### 🛡️ Bookkeeping Web App | [Live Demo](https://booksy-puce.vercel.app)
+### 🛡️ Bookkeeping Web App | [ Demo](https://booksy-puce.vercel.app)
 - Architected secure SaaS bookkeeping platform with RBAC & intrusion detection  
 - Tech: Next.js, DevOps automation  
 
