@@ -7,6 +7,7 @@
 
 ### 📝 Professional Statement
 
+I combine ACCA‑grade financial rigor with software engineering.  
 I am a precision-driven Software Engineer and Cybersecurity Specialist with a unique dual background in **Advanced Accounting (ACCA)** and system architecture. I specialise in the intersection of **FinTech and secure backend engineering**, using **Python (Django/FastAPI)** and **TypeScript (Next.js/React Native)** to build applications that are as financially accurate as they are secure. 
 
 My approach merges professional financial rigour with a "Secure-by-Design" philosophy. I am dedicated to automating complex workflows—such as UK tax logic and risk assessment pipelines—ensuring 100% data integrity and regulatory compliance.
@@ -47,23 +48,18 @@ My approach merges professional financial rigour with a "Secure-by-Design" philo
 
 ---
 
-### 🏆 Featured Impact Projects
+## 🏆 Featured Projects
+### 📱 Mobile App Ecosystem | [Live Demo](https://minibook.expo.app)
+- Built secure, cross‑platform accounting app with reminders & multicurrency support  
+- Tech: React Native, Expo, Async Storage  
 
-#### 📱 Mobile App Ecosystem | React Native & TypeScript https://minibook.expo.app
-* **The Project:** Engineered a high-performance mobile solution using **Expo**, prioritising type-safety and real-time state synchronisation.
-* **Impact:** Delivered a seamless cross-platform experience with specialized security layers for mobile data protection.
-  Data can be exported and the app can be integrated to various accounting softwares. Automated reminders and multicurrency accounting.
-* Technology - Async storage, debouncing.
+### 🏛️ Finance & Tax Engine | [Frontend Demo](https://simplepayroll.netlify.app)
+- Automated payroll & tax workflows with Django backend  
+- Tech: Python (Django), Vite  
 
-#### 🏛️ Finance & Tax Engine | frontend- https://simplepayroll.netlify.app/
-* **The Project:** Developed a production-ready **Django** backend specifically designed for complex financial reporting and  tax logic.
-* **Impact:** Automated intricate calculation workflows, ensuring 100% data integrity and compliance with regulatory standards. Automated Payroll processes and generation of payslips.
-*  **Technology:** Vite , Python(Django)
-
-#### 🛡️ Bookkeeping web app | DevOps https://booksy-puce.vercel.app/
-* **The Project:** Architected a "Secure-by-Design" environment to safeguard sensitive financial APIs.
-* **Impact:** Successfully implemented hardened IAM protocols and automated threat detection, significantly reducing the attack surface.
-*  **Technology:** Automated workflows,Role Based Access Management, SaaS, intrusion detection
+### 🛡️ Bookkeeping Web App | [Live Demo](https://booksy-puce.vercel.app)
+- Architected secure SaaS bookkeeping platform with RBAC & intrusion detection  
+- Tech: Next.js, DevOps automation  
 
 ---
 
