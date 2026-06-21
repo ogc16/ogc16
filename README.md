@@ -69,7 +69,7 @@ My approach merges professional financial rigour with a "Secure-by-Design" philo
 
 ---
 
-### 📫 Links
+### 📫 Get in Touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caleb-kibet-834020362/">
