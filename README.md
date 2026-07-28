@@ -24,10 +24,10 @@ Whether hardening server environments, building custom Go-based IaaS platforms, 
 
 ###  Professional Certifications
 
-*  **Google Cybersecurity Professional** – Threat detection, risk mitigation, and automated security response.
-*  **Junior Cybersecurity Analyst (CISCO)** – Security monitoring, endpoint protection, and network defense.
-*  **Ethical Hacker (CISCO)** – Penetration testing fundamentals and vulnerability analysis.
-*  **CompTIA Security+** – In Progress
+* **Google Cybersecurity Professional** – Threat detection, risk mitigation, and automated security response.
+* **Junior Cybersecurity Analyst (CISCO)** – Security monitoring, endpoint protection, and network defense.
+* **Ethical Hacker (CISCO)** – Penetration testing fundamentals and vulnerability analysis.
+* **CompTIA Security+** – In Progress
 
 ---
 
@@ -57,11 +57,15 @@ Whether hardening server environments, building custom Go-based IaaS platforms, 
 
 ###  [Network Intrusion Detection System (`nids`)](https://github.com/ogc16/nids) | [Live Demo](https://nids.techgaetano.com/)
 - Developed an open-source cybersecurity SOC tool utilizing network monitoring, custom protocol playbooks, and deep packet analysis.
-- Tech: TypeScript, Wireshark, TShark, Network Security.
+- Tech: TypeScript, Wireshark, Tshark, Network Security.
 
 ###  [Financial & Invoicing Suite (`fina`)](https://github.com/ogc16/fina)
 - Built automated financial tracking, secure invoice generation, and payroll/bookkeeping management platforms.
 - Tech: TypeScript, Next.js, Python, Database Management.
+
+###  [Data Manipulation Tool (`data_manipulation_tool`)](https://github.com/ogc16/data_manipulation_tool) | [Live Demo](https://dt.techgaetano.com/)
+- Engineered a robust data utility tool for efficient file manipulation, format conversion, and automated data analysis pipelines.
+- Tech: HTML, JavaScript, Data Utilities, File Processing.
 
 ###  [Cloud-Native VPN Architecture (`VPN`)](https://github.com/ogc16/VPN)
 - Engineered a robust, open-source VPN utility focused on secure tunnel routing, protocol validation, and data protection.
@@ -99,6 +103,6 @@ Whether hardening server environments, building custom Go-based IaaS platforms, 
      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
   <a href="https://discordapp.com/users/techgaetano">
-     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
