@@ -57,7 +57,7 @@ Whether hardening server environments, building custom Go-based IaaS platforms, 
 
 ###  [Network Intrusion Detection System (`nids`)](https://github.com/ogc16/nids) | [Live Demo](https://nids.techgaetano.com/)
 - Developed an open-source cybersecurity SOC tool utilizing network monitoring, custom protocol playbooks, and deep packet analysis.
-- Tech: TypeScript, Wireshark, Tshark, Network Security.
+- Tech: TypeScript, Wireshark, Tshark, Network Security,Wazuh.
 
 ###  [Financial & Invoicing Suite (`fina`)](https://github.com/ogc16/fina)
 - Built automated financial tracking, secure invoice generation, and payroll/bookkeeping management platforms.
@@ -69,7 +69,7 @@ Whether hardening server environments, building custom Go-based IaaS platforms, 
 
 ###  [Cloud-Native VPN Architecture (`VPN`)](https://github.com/ogc16/VPN)
 - Engineered a robust, open-source VPN utility focused on secure tunnel routing, protocol validation, and data protection.
-- Tech: HTML, Network Infrastructure, Security Protocols.
+- Tech: HTML, Network Infrastructure, Security Protocols, Wireguard.
 
 ###  [CyberShield AI Security Tool (`cyber-shield-up`)](https://github.com/ogc16/cyber-shield-up) | [Demo](https://cyber.techgaetano.com/)
 - Created an AI-assisted browser extension and security scanner designed for automated vulnerability detection and threat mitigation.
