@@ -80,7 +80,7 @@ Whether hardening server environments, building custom Go-based IaaS platforms, 
 - Tech Stack: TypeScript, React Native, Expo, Offline Data Sync, REST APIs
 
 ### [Automation Tool](https://github.com/ogc16/autorun)
-- lightweight utility designed to simplify repetitive IT tasks by automatically executing predefined scripts or commands when triggered. It’s particularly useful for IT consultants who need consistent, repeatable automation across different environments.
+- Lightweight utility designed to simplify repetitive IT tasks by automatically executing predefined scripts or commands when triggered. It’s particularly useful for IT consultants who need consistent, repeatable automation across different environments.
 - Script Execution → Runs shell, PowerShell, or batch scripts automatically based on configuration.
 
 - Task Scheduling → Can be set to trigger at startup, login, or specific intervals.
@@ -88,6 +88,7 @@ Whether hardening server environments, building custom Go-based IaaS platforms, 
 - Environment Setup → Automates setting up dev/test environments (installing dependencies, configuring paths).
 
 - Consistency → Ensures the same commands run every time, reducing human error.
+  
 ---
 
 ###  Drive
