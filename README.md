@@ -1,14 +1,15 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/82827770?v=4" width="150" style="border-radius: 50%;" />
-
-</div>
-
-# CALEB NGENO
-
-### Infrastructure • Cybersecurity • Cloud • Automation • Platform Engineering
-
-**Designing secure infrastructure and engineering platforms for modern operations.**
+<table>
+  <tr>
+    <td>
+      <h1>CALEB NGENO</h1>
+      <h3>Infrastructure • Cybersecurity • Cloud • Automation • Platform Engineering</h3>
+      <p><strong>Designing secure infrastructure and engineering platforms for modern operations.</strong></p>
+    </td>
+    <td align="right">
+      <img src="https://avatars.githubusercontent.com/u/82827770?v=4" width="150" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
