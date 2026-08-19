@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>CALEB NGENO</h1>
-      <h3>Infrastructure • Cybersecurity • Cloud • Automation • Platform Engineering</h3>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Infrastructure+%E2%80%A2+Cybersecurity+%E2%80%A2+Cloud+%E2%80%A2+Automation+%E2%80%A2+Platform+Engineering" alt="Typing SVG" />
       <p><strong>Designing secure infrastructure and engineering platforms for modern operations.</strong></p>
     </td>
     <td align="right">
@@ -201,6 +201,16 @@ I build systems with a long-term engineering perspective:
 **Automated by default.**
 **Observable in operation.**
 **Structured to scale.**
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ogc16&theme=radical&no-frame=true&no-bg=false&column=7)
+
+</div>
 
 ---
 
