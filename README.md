@@ -156,6 +156,27 @@ Selected application platforms demonstrating the ability to translate operationa
 
 ---
 
+# Experience
+
+### TechGaetano — Security Operations
+
+* Lead security operations and incident response, reducing cyberattack incidents by 40%
+* Implemented advanced threat monitoring and response strategies, improving detection by 30%
+* Conducted vulnerability assessments and penetration testing to identify weaknesses
+* Collaborated with cross-functional teams to develop security protocols and improve network safety
+* Provided training to internal staff on cybersecurity best practices and policies
+* Monitored and analyzed network traffic to identify security threats
+* Developed incident response plans and contributed to disaster recovery operations
+* Performed security audits and ensured compliance with industry standards
+
+---
+
+# Skills
+
+**Network Security & Risk Management** • **Penetration Testing & Vulnerability Assessments** • **Incident Response & Disaster Recovery** • **Threat Monitoring & Intrusion Detection** • **SIEM** • **Firewall Management & VPNs** • **Compliance (GDPR, HIPAA, PCI-DSS)** • **Python, Bash, PowerShell**
+
+---
+
 # Certifications & Education
 
 ### Certifications
