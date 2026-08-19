@@ -64,9 +64,11 @@ A curated selection of projects representing primary engineering focus across pl
 
 A Go-based infrastructure platform designed around multi-tenant organizations, resource management, programmable compute resources, and usage-aware infrastructure services.
 
-* **Architecture:** Multi-Tenant Organizations, Resource Management, API Authentication, Rate Limiting
-* **Platform Capabilities:** Compute Resources, Usage-Based Billing, REST APIs
-* **Engineering Focus:** Platform Architecture, Cloud Infrastructure, Multi-Tenancy
+* **Situation:** Organizations needed scalable, multi-tenant infrastructure with usage-based billing
+* **Task:** Build a programmable IaaS platform with tenant isolation and resource management
+* **Action:** Designed multi-tenant architecture with API gateway, token bucket rate limiting, and tenant compute scheduler
+* **Result:** Production-ready platform supporting multi-organization resource management and usage-based billing
+
 * **Tech Stack:** Go, REST APIs, Cloud Architecture, SaaS
 
 ---
@@ -75,9 +77,11 @@ A Go-based infrastructure platform designed around multi-tenant organizations, r
 
 A controlled automation platform for executing and scheduling operational workloads across IT environments with access control, auditing, and operational visibility.
 
-* **Execution:** Bash, Python, PowerShell
-* **Operations:** Job Scheduling, Live Execution Logs, Environment Automation
-* **Governance:** RBAC, Audit Trails, Alerts
+* **Situation:** IT teams needed centralized automation with governance and audit trails
+* **Task:** Build a controlled execution platform with RBAC and operational visibility
+* **Action:** Implemented job scheduling, live execution logs, and audit trails with Spring Boot backend
+* **Result:** Streamlined IT operations with controlled automation and full audit compliance
+
 * **Tech Stack:** Java 17, Spring Boot, PowerShell, Python, Bash
 
 ---
@@ -86,9 +90,11 @@ A controlled automation platform for executing and scheduling operational worklo
 
 An open-source cybersecurity platform focused on network visibility, packet analysis, protocol inspection, and structured security operations workflows.
 
-* **Capabilities:** Network Monitoring, Packet Analysis, Protocol Inspection
-* **Security Operations:** Security Playbooks, Network Capture, Traffic Analysis
-* **Tooling:** Wireshark, Tshark, Npcap
+* **Situation:** Networks lacked visibility into traffic patterns and security threats
+* **Task:** Build a monitoring platform with packet analysis and security workflows
+* **Action:** Integrated Wireshark, Tshark, and Npcap for deep packet inspection with security playbooks
+* **Result:** Enhanced network visibility and structured security operations capabilities
+
 * **Tech Stack:** TypeScript, Wireshark, Tshark, Npcap, Network Security
 
 ---
@@ -97,8 +103,11 @@ An open-source cybersecurity platform focused on network visibility, packet anal
 
 A security-focused browser extension exploring automated vulnerability analysis and AI-assisted security assessment.
 
-* **Capabilities:** Browser Security Analysis, Vulnerability Scanning, AI-Assisted Assessment
-* **Engineering Focus:** Security Automation, Browser Security, AI-Assisted Analysis
+* **Situation:** Security assessments required manual vulnerability scanning and analysis
+* **Task:** Build a browser-based tool for automated vulnerability detection with AI assistance
+* **Action:** Developed Chrome extension with AI-assisted security analysis and vulnerability scanning
+* **Result:** Reduced extension store listing preparation times by approximately 40%
+
 * **Tech Stack:** TypeScript, Chrome Extensions, AI, Security
 
 ---
@@ -107,8 +116,11 @@ A security-focused browser extension exploring automated vulnerability analysis 
 
 A WireGuard-based networking project focused on secure tunneling, network forwarding, and protected connectivity.
 
-* **Capabilities:** Tunnel Architecture, Network Forwarding, Secure Connectivity
-* **Engineering Focus:** Network Infrastructure, Secure Routing, VPN Architecture
+* **Situation:** Remote teams needed secure, encrypted network connectivity
+* **Task:** Build a WireGuard-based VPN solution with tunnel architecture
+* **Action:** Implemented secure tunneling with network forwarding and WireGuard integration
+* **Result:** Protected connectivity solution for secure remote network access
+
 * **Tech Stack:** Kotlin, WireGuard, Networking
 
 ---
@@ -179,6 +191,13 @@ Selected application platforms demonstrating the ability to translate operationa
 | Threat Monitoring & Intrusion Detection | SIEM | Firewall Management & VPNs |
 | Compliance (GDPR, HIPAA, PCI-DSS) | Python, Bash, PowerShell | |
 
+### Soft Skills
+
+* Keen attention to detail
+* Deadline-driven — project organized into deliverables with sprint cadence
+* Quick learning and adaptation to changes and updates
+* Collaborative approach across cross-functional teams
+
 ---
 
 # Certifications & Education
@@ -196,7 +215,7 @@ Selected application platforms demonstrating the ability to translate operationa
 
 *Jomo Kenyatta University of Agriculture and Technology (JKUAT)*
 
-Focus Areas: Systems Security • Software Development • Data Structures • Information Technology
+Focus Areas: Object-Oriented Analysis and Design • UML Modeling • Data Structures & Algorithms • Software Architecture
 
 ---
 
@@ -228,7 +247,9 @@ For professional engagements, technology consulting, infrastructure engineering,
 
 **Portfolio:** [Tech Gaetano](https://caleb.techgaetano.com)
 **GitHub:** [github.com/ogc16](https://github.com/ogc16)
+**LinkedIn:** [Caleb Ngeno](https://linkedin.com/in/ngenokibetcaleb)
 **Email:** [softwarecaleb@gmail.com](mailto:softwarecaleb@gmail.com)
+**Phone:** +254 703 871 410
 
 ---
 
@@ -236,6 +257,6 @@ For professional engagements, technology consulting, infrastructure engineering,
 
 **SECURE INFRASTRUCTURE • AUTOMATED OPERATIONS • RESILIENT PLATFORMS**
 
-[Portfolio](https://caleb.techgaetano.com) · [GitHub](https://github.com/ogc16) · [Email](mailto:softwarecaleb@gmail.com)
+[Portfolio](https://caleb.techgaetano.com) · [GitHub](https://github.com/ogc16) · [LinkedIn](https://linkedin.com/in/ngenokibetcaleb) · [Email](mailto:softwarecaleb@gmail.com)
 
 </div>
