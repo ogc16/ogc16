@@ -36,13 +36,15 @@ graph TD
 
 # Selected Engineering Work
 
-The following repositories represent my primary engineering focus and demonstrate work across **platform engineering, infrastructure automation, cybersecurity, networking, and security tooling**.
+A curated selection of projects representing primary engineering focus across platform engineering, infrastructure automation, cybersecurity, networking, and security tooling.
 
 ### 01 — [iaas-platform](https://github.com/ogc16/iaas-platform) | Infrastructure-as-a-Service Platform
 
-A Go-based infrastructure platform designed around multi-tenant resource management and programmable compute resources.
+A Go-based infrastructure platform designed around multi-tenant organizations, resource management, programmable compute resources, and usage-aware infrastructure services.
 
-* **Architecture:** Multi-Tenant Organizations, Resource Management, API Authentication, Rate Limiting, Usage-Based Billing
+* **Architecture:** Multi-Tenant Organizations, Resource Management, API Authentication, Rate Limiting
+* **Platform Capabilities:** Compute Resources, Usage-Based Billing, REST APIs
+* **Engineering Focus:** Platform Architecture, Cloud Infrastructure, Multi-Tenancy
 * **Tech Stack:** Go, REST APIs, Cloud Architecture, SaaS
 
 ---
@@ -51,52 +53,56 @@ A Go-based infrastructure platform designed around multi-tenant resource managem
 
 A controlled automation platform for executing and scheduling operational workloads across IT environments with access control, auditing, and operational visibility.
 
-* **Capabilities:** Bash / Python / PowerShell execution, job scheduling, live execution logs, RBAC, audit trails, and alerts
-* **Tech Stack:** Java 17, Spring Boot, RBAC, PowerShell, Python, Bash
+* **Execution:** Bash, Python, PowerShell
+* **Operations:** Job Scheduling, Live Execution Logs, Environment Automation
+* **Governance:** RBAC, Audit Trails, Alerts
+* **Tech Stack:** Java 17, Spring Boot, PowerShell, Python, Bash
 
 ---
 
-### 03 — [nids](https://github.com/ogc16/nids) | Network Intrusion Detection & Security Operations
+### 03 — [nids](https://github.com/ogc16/nids) | Network Security Monitoring & Detection Platform
 
-An open-source cybersecurity platform focused on network monitoring, deep packet analysis, protocol inspection, and security operations workflows.
+An open-source cybersecurity platform focused on network visibility, packet analysis, protocol inspection, and structured security operations workflows.
 
-* **Capabilities:** Network monitoring, packet analysis, protocol analysis, security playbooks, and network capture
+* **Capabilities:** Network Monitoring, Packet Analysis, Protocol Inspection
+* **Security Operations:** Security Playbooks, Network Capture, Traffic Analysis
+* **Tooling:** Wireshark, Tshark, Npcap
 * **Tech Stack:** TypeScript, Wireshark, Tshark, Npcap, Network Security
 
 ---
 
 ### 04 — [cyber-shield-up](https://github.com/ogc16/cyber-shield-up) | AI-Assisted Security Tooling
 
-A security-focused browser extension exploring automated vulnerability detection and AI-assisted security analysis.
+A security-focused browser extension exploring automated vulnerability analysis and AI-assisted security assessment.
 
-* **Capabilities:** Browser-based security analysis, vulnerability scanning, and AI-assisted assessment
+* **Capabilities:** Browser Security Analysis, Vulnerability Scanning, AI-Assisted Assessment
+* **Engineering Focus:** Security Automation, Browser Security, AI-Assisted Analysis
 * **Tech Stack:** TypeScript, Chrome Extensions, AI, Security
 
 ---
 
 ### 05 — [VPN](https://github.com/ogc16/VPN) | Secure Network Tunneling
 
-A WireGuard-based networking project focused on secure tunneling, network forwarding, and secure connectivity.
+A WireGuard-based networking project focused on secure tunneling, network forwarding, and protected connectivity.
 
-* **Capabilities:** Tunnel architecture, WireGuard integration, network forwarding, and secure connectivity
+* **Capabilities:** Tunnel Architecture, Network Forwarding, Secure Connectivity
+* **Engineering Focus:** Network Infrastructure, Secure Routing, VPN Architecture
 * **Tech Stack:** Kotlin, WireGuard, Networking
 
 ---
 
 # Business & Enterprise Systems
 
-A curated selection of application platforms demonstrating experience translating business and operational requirements into software systems.
+Selected application platforms demonstrating the ability to translate operational and business requirements into production-oriented software systems.
 
 | **Project**                                               | **Domain**                            | **Technology**  |
 | --------------------------------------------------------- | ------------------------------------- | --------------- |
 | [pbooks](https://github.com/ogc16/pbooks)                 | Construction Operations & Bookkeeping | TypeScript      |
 | [booksy](https://github.com/ogc16/booksy)                 | Bookkeeping SaaS                      | TypeScript      |
-| [aggregatorX](https://github.com/ogc16/aggregatorX)       | Data Aggregation Platform             | React / Node.js |
-| [fina](https://github.com/ogc16/fina)                     | Financial Management                  | TypeScript      |
+| [aggregatorX](https://github.com/ogc16/aggregatorX)       | Data Aggregation                      | React / Node.js |
 | [lms](https://github.com/ogc16/lms)                       | Learning Management                   | Python / Django |
-| [swiftinvoice](https://github.com/ogc16/swiftinvoice)     | Invoicing Platform                    | Swift           |
+| [swiftinvoice](https://github.com/ogc16/swiftinvoice)     | Invoicing                             | Swift           |
 | [restaurant-pos](https://github.com/ogc16/restaurant-pos) | Point of Sale                         | C#              |
-| [lms-app](https://github.com/ogc16/lms-app)               | Mobile Learning Platform              | React Native    |
 
 ---
 
@@ -104,8 +110,8 @@ A curated selection of application platforms demonstrating experience translatin
 
 | **Principle**        | **Approach**                                                                        |
 | -------------------- | ----------------------------------------------------------------------------------- |
-| **Secure by Design** | Security is incorporated directly into architecture from inception.                 |
-| **Least Privilege**  | Access is restricted according to operational requirements and risk.                |
+| **Secure by Design** | Security is incorporated into architecture from inception rather than added as an afterthought. |
+| **Least Privilege**  | Access is restricted according to operational requirements, identity, and risk.                |
 | **Defense in Depth** | Multiple independent security controls protect critical systems and data.           |
 | **Automation**       | Repeatable operational processes are standardized and automated wherever practical. |
 | **Observability**    | Systems provide meaningful telemetry and visibility for effective operations.       |
@@ -114,18 +120,17 @@ A curated selection of application platforms demonstrating experience translatin
 
 ---
 
-# Technology Landscape
+# Engineering Stack
 
-| **Domain**           | **Technologies**                                                                    |
-| -------------------- | ----------------------------------------------------------------------------------- |
-| **Languages**        | Go, Java, Python, TypeScript, JavaScript, Swift, C#, Kotlin, Dart, Bash, PowerShell |
-| **Infrastructure**   | Linux, Windows Server, Docker, Networking, Nginx                                    |
-| **Cloud & Platform** | AWS, Cloud Architecture, Multi-Tenancy, SaaS                                        |
-| **Security**         | IAM, RBAC, Wireshark, Tshark, Npcap, WireGuard                                      |
-| **Backend**          | Go, Spring Boot, Django, Node.js, REST APIs                                         |
-| **Frontend**         | React, Next.js, Vite                                                                |
-| **Databases**        | PostgreSQL, MongoDB, Supabase                                                       |
-| **Mobile**           | React Native, Expo, Flutter, Kotlin                                                 |
+**Infrastructure:** Linux, Windows Server, Active Directory, Group Policy, DNS, DHCP, Docker, Nginx
+
+**Cloud & Platform:** AWS, Go, REST APIs, Multi-Tenancy, SaaS Architecture, Distributed Systems
+
+**Security:** IAM, RBAC, Network Security, Wireshark, Tshark, Npcap, WireGuard
+
+**Automation & Operations:** Python, Bash, PowerShell, Java, Spring Boot, CI/CD, Logging, Observability
+
+**Application Engineering:** TypeScript, JavaScript, React, Next.js, Django, PostgreSQL, MongoDB, Supabase
 
 ---
 
@@ -151,16 +156,16 @@ Focus Areas: Systems Security • Software Development • Data Structures • I
 # Current Focus
 
 **Platform Engineering**
-Infrastructure platforms, multi-tenant architecture, cloud systems, and distributed services.
+Infrastructure platforms, multi-tenant architecture, cloud systems, distributed services, and programmable infrastructure.
 
 **Cybersecurity**
-Network defense, security operations, detection engineering, and security automation.
+Network defense, security operations, detection engineering, security tooling, and security automation.
 
 **Operational Engineering**
-IT automation, observability, infrastructure tooling, and controlled execution platforms.
+IT automation, observability, infrastructure tooling, controlled execution, and operational resilience.
 
 **Emerging Systems**
-AI-assisted security, intelligent automation, and next-generation infrastructure tooling.
+AI-assisted security, intelligent automation, and next-generation infrastructure platforms.
 
 ---
 
@@ -168,25 +173,22 @@ AI-assisted security, intelligent automation, and next-generation infrastructure
 
 > **Technology should reduce risk, increase operational leverage, and create durable capabilities.**
 
-I build systems with a long-term perspective: **secure by design, automated by default, observable in operation, and structured to scale.**
+I build systems with a long-term engineering perspective:
 
----
+**Secure by design.**
+**Automated by default.**
+**Observable in operation.**
+**Structured to scale.**
 
-<div align="center">
-
-**SECURE INFRASTRUCTURE • AUTOMATED OPERATIONS • RESILIENT PLATFORMS**
-
-<br>
-
-</div>
 ---
 
 # Contact
 
-For professional engagements, technology consulting, infrastructure engineering, cybersecurity, and software projects:
+For professional engagements, technology consulting, infrastructure engineering, cybersecurity, platform engineering, and software development:
 
-**Portfolio:** [Portfolio](https://caleb.techgaetano.com)
-**Email:** `softwarecaleb@gmail.com`
+**Portfolio:** [Tech Gaetano](https://techgaetano.com)
+**GitHub:** [github.com/ogc16](https://github.com/ogc16)
+**Email:** [softwarecaleb@gmail.com](mailto:softwarecaleb@gmail.com)
 
 ---
 
@@ -194,9 +196,6 @@ For professional engagements, technology consulting, infrastructure engineering,
 
 **SECURE INFRASTRUCTURE • AUTOMATED OPERATIONS • RESILIENT PLATFORMS**
 
-<br>
-
-[Portfolio](https://techgaetano.com) · [GitHub](https://github.com/ogc16)
+[Portfolio](https://techgaetano.com) · [GitHub](https://github.com/ogc16) · [Email](mailto:softwarecaleb@gmail.com)
 
 </div>
-
