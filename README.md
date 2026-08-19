@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/82827770?v=4" width="150" style="border-radius: 50%;" />
+
+</div>
+
 # CALEB NGENO
 
 ### Infrastructure • Cybersecurity • Cloud • Automation • Platform Engineering
