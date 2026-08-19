@@ -173,7 +173,11 @@ Selected application platforms demonstrating the ability to translate operationa
 
 # Skills
 
-**Network Security & Risk Management** • **Penetration Testing & Vulnerability Assessments** • **Incident Response & Disaster Recovery** • **Threat Monitoring & Intrusion Detection** • **SIEM** • **Firewall Management & VPNs** • **Compliance (GDPR, HIPAA, PCI-DSS)** • **Python, Bash, PowerShell**
+| | | |
+| --- | --- | --- |
+| Network Security & Risk Management | Penetration Testing & Vulnerability Assessments | Incident Response & Disaster Recovery |
+| Threat Monitoring & Intrusion Detection | SIEM | Firewall Management & VPNs |
+| Compliance (GDPR, HIPAA, PCI-DSS) | Python, Bash, PowerShell | |
 
 ---
 
