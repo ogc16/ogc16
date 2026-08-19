@@ -222,7 +222,7 @@ I build systems with a long-term engineering perspective:
 
 For professional engagements, technology consulting, infrastructure engineering, cybersecurity, platform engineering, and software development:
 
-**Portfolio:** [Tech Gaetano](https://techgaetano.com)
+**Portfolio:** [Tech Gaetano](https://caleb.techgaetano.com)
 **GitHub:** [github.com/ogc16](https://github.com/ogc16)
 **Email:** [softwarecaleb@gmail.com](mailto:softwarecaleb@gmail.com)
 
@@ -232,6 +232,6 @@ For professional engagements, technology consulting, infrastructure engineering,
 
 **SECURE INFRASTRUCTURE • AUTOMATED OPERATIONS • RESILIENT PLATFORMS**
 
-[Portfolio](https://techgaetano.com) · [GitHub](https://github.com/ogc16) · [Email](mailto:softwarecaleb@gmail.com)
+[Portfolio](https://caleb.techgaetano.com) · [GitHub](https://github.com/ogc16) · [Email](mailto:softwarecaleb@gmail.com)
 
 </div>
