@@ -46,12 +46,12 @@ graph TD
 ```mermaid
 %%{init: {'themeVariables': {'pie1': '#FF6B6B', 'pie2': '#4ECDC4', 'pie3': '#45B7D1', 'pie4': '#96CEB4', 'pie5': '#FFEAA7', 'pie6': '#DDA0DD'}}}%%
 pie showData
-    "Infrastructure & Systems" : 25
-    "Cybersecurity" : 20
-    "Cloud & Platform" : 20
-    "Automation & DevOps" : 15
-    "Application Engineering" : 10
-    "Network Engineering" : 10
+    "Infrastructure & Systems [25]" : 25
+    "Cybersecurity [20]" : 20
+    "Cloud & Platform [20]" : 20
+    "Automation & DevOps [15]" : 15
+    "Application Engineering [10]" : 10
+    "Network Engineering [10]" : 10
 ```
 
 ---
