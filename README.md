@@ -259,4 +259,8 @@ For professional engagements, technology consulting, infrastructure engineering,
 
 [Portfolio](https://caleb.techgaetano.com) · [GitHub](https://github.com/ogc16) · [LinkedIn](https://linkedin.com/in/ngenokibetcaleb) · [Email](mailto:softwarecaleb@gmail.com)
 
+<br>
+
+© 2026 Caleb Ngeno. All rights reserved.
+
 </div>
