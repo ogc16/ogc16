@@ -41,6 +41,20 @@ graph TD
 
 ---
 
+## Skills Overview
+
+```mermaid
+pie showData
+    "Infrastructure & Systems" : 25
+    "Cybersecurity" : 20
+    "Cloud & Platform" : 20
+    "Automation & DevOps" : 15
+    "Application Engineering" : 10
+    "Network Engineering" : 10
+```
+
+---
+
 # Selected Engineering Work
 
 A curated selection of projects representing primary engineering focus across platform engineering, infrastructure automation, cybersecurity, networking, and security tooling.
