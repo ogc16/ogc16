@@ -6,7 +6,7 @@
       <p><strong>Designing secure infrastructure and engineering platforms for modern operations.</strong></p>
     </td>
     <td align="right">
-      <img src="https://avatars.githubusercontent.com/u/82827770?v=4" width="150" style="border-radius: 50%;" />
+      <img src="https://avatars.githubusercontent.com/u/82827770?v=4" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
     </td>
   </tr>
 </table>
