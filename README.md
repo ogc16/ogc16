@@ -44,6 +44,7 @@ graph TD
 ## Skills Overview
 
 ```mermaid
+%%{init: {'themeVariables': {'pie1': '#FF6B6B', 'pie2': '#4ECDC4', 'pie3': '#45B7D1', 'pie4': '#96CEB4', 'pie5': '#FFEAA7', 'pie6': '#DDA0DD'}}}%%
 pie showData
     "Infrastructure & Systems" : 25
     "Cybersecurity" : 20
