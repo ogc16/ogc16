@@ -198,17 +198,10 @@ Focus Areas: Systems Security • Software Development • Data Structures • I
 
 # Current Focus
 
-**Platform Engineering**
-Infrastructure platforms, multi-tenant architecture, cloud systems, distributed services, and programmable infrastructure.
-
-**Cybersecurity**
-Network defense, security operations, detection engineering, security tooling, and security automation.
-
-**Operational Engineering**
-IT automation, observability, infrastructure tooling, controlled execution, and operational resilience.
-
-**Emerging Systems**
-AI-assisted security, intelligent automation, and next-generation infrastructure platforms.
+* **Platform Engineering** — Infrastructure platforms, multi-tenant architecture, cloud systems, distributed services, and programmable infrastructure
+* **Cybersecurity** — Network defense, security operations, detection engineering, security tooling, and security automation
+* **Operational Engineering** — IT automation, observability, infrastructure tooling, controlled execution, and operational resilience
+* **Emerging Systems** — AI-assisted security, intelligent automation, and next-generation infrastructure platforms
 
 ---
 
