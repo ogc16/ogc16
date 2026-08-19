@@ -204,16 +204,6 @@ I build systems with a long-term engineering perspective:
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ogc16&theme=radical&no-frame=true&no-bg=false&column=7)
-
-</div>
-
----
-
 # Contact
 
 For professional engagements, technology consulting, infrastructure engineering, cybersecurity, platform engineering, and software development:
